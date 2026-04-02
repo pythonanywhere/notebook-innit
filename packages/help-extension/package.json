@@ -38,10 +38,10 @@
     "watch": "tsc -b --watch"
   },
   "dependencies": {
-    "@jupyter-notebook/ui-components": "^7.5.0-alpha.2",
+    "@jupyter-notebook/ui-components": "^7.0.0",
     "@jupyterlab/application": "~4.5.0-alpha.3",
-    "@jupyterlab/apputils": "~4.6.0-alpha.3",
-    "@jupyterlab/mainmenu": "~4.5.0-alpha.3",
+    "@jupyterlab/apputils": "~4.6.0",
+    "@jupyterlab/mainmenu": "~4.5.0",
     "@jupyterlab/translation": "~4.5.0-alpha.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
