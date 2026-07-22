@@ -45,7 +45,7 @@
   "dependencies": {
     "@jupyter-notebook/application": "^7.5.0-alpha.2",
     "@jupyterlab/application": "~4.5.0-alpha.3",
-    "@jupyterlab/apputils": "~4.6.0-alpha.3",
+    "@jupyterlab/apputils": "~4.6.0",
     "@jupyterlab/coreutils": "~6.5.0-alpha.3",
     "@jupyterlab/docregistry": "~4.5.0-alpha.3",
     "@jupyterlab/notebook": "~4.5.0-alpha.3",
