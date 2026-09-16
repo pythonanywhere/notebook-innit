@@ -20,7 +20,7 @@
     "watch": "tsc -b -w --preserveWatchOutput"
   },
   "dependencies": {
-    "@jupyter-notebook/application": "^7.5.0-alpha.2",
+    "@jupyter-notebook/application": "^7.0.0",
     "@jupyter-notebook/application-extension": "^7.5.0-alpha.2",
     "@jupyter-notebook/console-extension": "^7.5.0-alpha.2",
     "@jupyter-notebook/docmanager-extension": "^7.5.0-alpha.2",
